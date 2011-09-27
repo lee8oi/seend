@@ -1,0 +1,8 @@
+# Seend is a seen script that will tell you how long ago the bot
+# last seen the specified nick, what channel they were on, and what their
+# last message was to that channel. It also allows you to do partial
+# nick searches using * and even lets you .seen yourself!
+#
+# Seend uses an automatic system for backing up and restoring seen
+# data. Which also includes the .seend partyline command for manually
+# backing up and restoring seen data.
